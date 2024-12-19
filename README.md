@@ -1,6 +1,7 @@
-#![Universitat Oberta de Catalunya](https://www.uoc.edu/portal/_resources/common/imatges/sala_de_premsa/noticies/2016/202-nova-marca-uoc.jpg)
+![Universitat Oberta de Catalunya](https://www.uoc.edu/portal/_resources/common/imatges/sala_de_premsa/noticies/2016/202-nova-marca-uoc.jpg)
 
 **Máster en Ciencia de Datos**
+
 **Área 2: Machine Learning in Cybersecurity**
 
 # Desafíos y optimización en sistemas de detección de intrusiones (IDS) basados en comportamiento
